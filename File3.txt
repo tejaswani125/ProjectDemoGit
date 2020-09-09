@@ -1,2 +1,6 @@
 Changes in file3:
 from teammate in master branch also
+
+
+Change: logout failure
+
