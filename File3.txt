@@ -1,0 +1,2 @@
+Changes in file3:
+from teammate in master branch
