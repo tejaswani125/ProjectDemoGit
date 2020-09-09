@@ -4,3 +4,4 @@ from teammate in master branch also
 
 Change: logout failure
 
+change2: changed for stash
